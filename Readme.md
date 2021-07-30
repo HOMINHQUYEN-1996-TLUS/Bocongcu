@@ -10,5 +10,5 @@ Bo cong cu Git :
 
 1: Download Git : https://git-scm.com/download/win
 
-2: Githun for Desktop : https://central.github.com/deployments/desktop/desktop/latest/win32
+2: Github for Desktop : https://central.github.com/deployments/desktop/desktop/latest/win32
 
